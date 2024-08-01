@@ -25,7 +25,11 @@ DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de pelí
 -  **Búsqueda Inteligente**: Encuentra fácilmente lo que buscas con nuestro potente buscador.
 -  **Sin Registro**: Comienza a ver tus películas favoritas de inmediato, sin necesidad de crear una cuenta.
 -  **Interfaz Intuitiva**: Diseñada para que encuentres lo que quieres ver en segundos.
+
+-  
 ![Screenshot 1](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot1.png)
+
+
 ## ¿Cómo Empezar?
 
 1. Visita [DamePelis.vercel.app](https://www.damepelis.vercel.app)
