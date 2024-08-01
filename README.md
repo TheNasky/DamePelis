@@ -2,8 +2,10 @@
 
 # DamePelis.com
 
-¡Bienvenido a DamePelis.com, tu destino definitivo para el entretenimiento cinematográfico!
+
 ![Screenshot 2](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot2.png)
+
+
 ## ¿Qué es DamePelis?
 
 DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de películas. Con nuestra interfaz intuitiva y moderna, tendrás acceso a un catálogo extenso y siempre actualizado de los mejores títulos.
