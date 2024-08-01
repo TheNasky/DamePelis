@@ -32,7 +32,7 @@ DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de pelí
 
 ## ¿Cómo Empezar?
 
-1. Visita [DamePelis.vercel.app](https://www.damepelis.vercel.app)
+1. Visita [https://DamePelis.vercel.app/](https://damepelis.vercel.app/)
 2. Explora nuestro catálogo o usa el buscador para encontrar tu película
 3. ¡Haz clic y disfruta!
 
