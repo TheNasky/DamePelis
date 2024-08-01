@@ -1,7 +1,7 @@
-![Logo de DamePelis](https://github.com/TheNasky/DamePelis-FrontEnd/blob/main/DamePelisLogo.png)
+![Logo de DamePelis](https://github.com/TheNasky/DamePelis/blob/main/DamePelisLogo.png)
 
-![Screenshot 1](./public/screenshot1.png)
-![Screenshot 2](./public/screenshot2.png)
+![Screenshot 1](https://github.com/TheNasky/DamePelis/blob/main/public/DamePelisLogo.png))
+![Screenshot 2](https://github.com/TheNasky/DamePelis/blob/main/public/DamePelisLogo.png))
 
 # DamePelis.com
 
