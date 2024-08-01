@@ -1,11 +1,10 @@
-![Logo de DamePelis](https://github.com/TheNasky/DamePelis-FrontEnd/blob/main/DamePelisLogo.png)
-
-![Screenshot 1](./public/screenshot1.png)
-![Screenshot 2](./public/screenshot2.png)
+![Logo de DamePelis](https://github.com/TheNasky/DamePelis/blob/main/DamePelisLogo.png)
 
 # DamePelis.com
 
-¡Bienvenido a DamePelis.com, tu destino definitivo para el entretenimiento cinematográfico!
+
+![Screenshot 2](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot2.png)
+
 
 ## ¿Qué es DamePelis?
 
@@ -26,6 +25,10 @@ DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de pelí
 -  **Búsqueda Inteligente**: Encuentra fácilmente lo que buscas con nuestro potente buscador.
 -  **Sin Registro**: Comienza a ver tus películas favoritas de inmediato, sin necesidad de crear una cuenta.
 -  **Interfaz Intuitiva**: Diseñada para que encuentres lo que quieres ver en segundos.
+
+ 
+![Screenshot 1](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot1.png)
+
 
 ## ¿Cómo Empezar?
 
