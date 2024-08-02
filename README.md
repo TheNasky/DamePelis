@@ -3,7 +3,7 @@
 # DamePelis.com
 
 
-![Screenshot 2](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot2.png)
+![Screenshot 2](https://github.com/TheNasky/DamePelis/blob/main/public/Screenshot3.png)
 
 
 ## ¿Qué es DamePelis?
