@@ -14,7 +14,7 @@ DamePelis es tu plataforma gratuita para disfrutar de un mundo infinito de pelí
 
 -  **Gratis y Sin Complicaciones**: Disfruta de todas las películas que quieras sin costo alguno.
 -  **Calidad Excepcional**: Experimenta tus películas favoritas en HD y Ultra HD 4K.
--  **Versatilidad**: Ve online o descarga para ver más tarde, tú eliges.º
+-  **Versatilidad**: Ve online o descarga para ver más tarde, tú eliges.
 -  **Siempre Actualizado**: Nuestro catálogo se renueva constantemente con los últimos estrenos.
 -  **Rápido y Fluido**: Navegación instantánea y reproducción sin interrupciones.
 -  **Para Todos los Dispositivos**: Diseño responsive que se adapta perfectamente a tu smartphone, tablet o computadora.
